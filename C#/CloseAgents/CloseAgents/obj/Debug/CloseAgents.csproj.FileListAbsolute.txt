@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\CloseAgents\CloseAgents\obj\Debug\CloseAgents.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CloseAgents\CloseAgents\obj\Debug\CloseAgents.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CloseAgents\CloseAgents\bin\Debug\CloseAgents.exe.config
+C:\Users\User\Desktop\CloseAgents\CloseAgents\bin\Debug\CloseAgents.exe
+C:\Users\User\Desktop\CloseAgents\CloseAgents\bin\Debug\CloseAgents.pdb
+C:\Users\User\Desktop\CloseAgents\CloseAgents\obj\Debug\CloseAgents.exe
+C:\Users\User\Desktop\CloseAgents\CloseAgents\obj\Debug\CloseAgents.pdb

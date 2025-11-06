@@ -1,0 +1,7 @@
+F:\Cyber\C#\Projects\Brackets\Brackets\bin\Debug\Brackets.exe.config
+F:\Cyber\C#\Projects\Brackets\Brackets\bin\Debug\Brackets.exe
+F:\Cyber\C#\Projects\Brackets\Brackets\bin\Debug\Brackets.pdb
+F:\Cyber\C#\Projects\Brackets\Brackets\obj\Debug\Brackets.csproj.AssemblyReference.cache
+F:\Cyber\C#\Projects\Brackets\Brackets\obj\Debug\Brackets.csproj.CoreCompileInputs.cache
+F:\Cyber\C#\Projects\Brackets\Brackets\obj\Debug\Brackets.exe
+F:\Cyber\C#\Projects\Brackets\Brackets\obj\Debug\Brackets.pdb
