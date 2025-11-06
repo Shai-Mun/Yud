@@ -1,0 +1,7 @@
+E:\Cyber\C#\Projects\myArgv\myArgv\bin\Debug\myArgv.exe.config
+E:\Cyber\C#\Projects\myArgv\myArgv\bin\Debug\myArgv.exe
+E:\Cyber\C#\Projects\myArgv\myArgv\bin\Debug\myArgv.pdb
+E:\Cyber\C#\Projects\myArgv\myArgv\obj\Debug\myArgv.csproj.AssemblyReference.cache
+E:\Cyber\C#\Projects\myArgv\myArgv\obj\Debug\myArgv.csproj.CoreCompileInputs.cache
+E:\Cyber\C#\Projects\myArgv\myArgv\obj\Debug\myArgv.exe
+E:\Cyber\C#\Projects\myArgv\myArgv\obj\Debug\myArgv.pdb

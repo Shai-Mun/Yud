@@ -1,0 +1,7 @@
+F:\Cyber\Projects\my2048\my2048\bin\Debug\my2048.exe.config
+F:\Cyber\Projects\my2048\my2048\bin\Debug\my2048.exe
+F:\Cyber\Projects\my2048\my2048\bin\Debug\my2048.pdb
+F:\Cyber\Projects\my2048\my2048\obj\Debug\my2048.csproj.AssemblyReference.cache
+F:\Cyber\Projects\my2048\my2048\obj\Debug\my2048.csproj.CoreCompileInputs.cache
+F:\Cyber\Projects\my2048\my2048\obj\Debug\my2048.exe
+F:\Cyber\Projects\my2048\my2048\obj\Debug\my2048.pdb

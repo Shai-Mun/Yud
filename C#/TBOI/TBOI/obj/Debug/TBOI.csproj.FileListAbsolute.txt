@@ -1,0 +1,14 @@
+E:\Cyber\TBOI\TBOI\bin\Debug\TBOI.exe.config
+E:\Cyber\TBOI\TBOI\bin\Debug\TBOI.exe
+E:\Cyber\TBOI\TBOI\bin\Debug\TBOI.pdb
+E:\Cyber\TBOI\TBOI\obj\Debug\TBOI.csproj.AssemblyReference.cache
+E:\Cyber\TBOI\TBOI\obj\Debug\TBOI.csproj.CoreCompileInputs.cache
+E:\Cyber\TBOI\TBOI\obj\Debug\TBOI.exe
+E:\Cyber\TBOI\TBOI\obj\Debug\TBOI.pdb
+F:\Cyber\TBOI\TBOI\obj\Debug\TBOI.csproj.AssemblyReference.cache
+F:\Cyber\TBOI\TBOI\obj\Debug\TBOI.csproj.CoreCompileInputs.cache
+F:\Cyber\TBOI\TBOI\obj\Debug\TBOI.exe
+F:\Cyber\TBOI\TBOI\obj\Debug\TBOI.pdb
+F:\Cyber\TBOI\TBOI\bin\Debug\TBOI.exe.config
+F:\Cyber\TBOI\TBOI\bin\Debug\TBOI.exe
+F:\Cyber\TBOI\TBOI\bin\Debug\TBOI.pdb
